@@ -1,2 +1,2 @@
 # school
-School work.
+Group class work.
